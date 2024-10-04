@@ -1,14 +1,15 @@
 
 hierarquia: 
--> npc => npcs estão sempre visualmente no background e não tem tantas opcoes nas conversas 
-          eles não podem entrar em grupos. Eles vão ter interações muito mais "de jogo". Eu não vou colocar empenho em fazer elas mais reais. 
-          eles também podem dar vantagens dependendo do quanto eles gostam do player, oque geralmente vai mudar por presentes ou por coisas sociais 
-          eles tem uma quantidade fixa de dados sobre os outros personagens. Se o player estiver junto com algum outro personagem vai afetar os stats 
-          npcs nao precisam ter muito cuidado sobre como eles vão se locomover. 
-          Eles vão ter um schedule fixo, que pode ser mudado pelo sistema mas nao vai ter muitos calculos. 
 
--> npc de skills => 
 -> character => 
+-> npc => npcs estão sempre visualmente no background e não tem tantas opcoes nas conversas
+          npcs só tem dados sobre o player, é como se ele fosse externo aos conflitos. 
+          eles não podem entrar em grupos. Eles vão ter interações muito mais "de jogo". Eu não vou colocar empenho em fazer elas mais reais. 
+          eles também podem dar vantagens dependendo do quanto eles gostam do player, oque geralmente vai mudar por presentes ou por coisas sociais
+          npcs nao precisam ter muito cuidado sobre como eles vão se locomover. 
+          Eles vão ter um schedule fixo, que pode ser mudado pelo sistema mas nao vai ter muitos calculos.
+        
+-> npc de skills => 
 -> trader  => 
 -> quester => 
 
